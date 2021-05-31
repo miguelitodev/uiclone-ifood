@@ -1,14 +1,15 @@
 .header-menu {
 	padding: 40px 32px;
-	background-color: #fff;
+	background-color: var(--bg-gray);
 	position: fixed;
+	z-index: 10;
+	top: 0;
 	width: 100%;
 }
 
 .header-menu nav,
 ul {
 	list-style: none;
-
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
@@ -37,5 +38,5 @@ ul {
 }
 
 .header-menu ul:last-child li:last-child a:hover {
-	background-color: var(--dark-red);
+	background-color: var(--hover-red);
 }
