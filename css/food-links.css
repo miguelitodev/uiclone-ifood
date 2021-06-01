@@ -1,5 +1,4 @@
 .food-links {
-	width: 842px;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
@@ -8,7 +7,7 @@
 }
 
 .food-link {
-	width: 48%;
+	width: 40%;
 	position: relative;
 	display: flex;
 	flex-direction: column;
@@ -50,6 +49,4 @@
 	bottom: 25px;
 	left: 0;
 	width: 50%;
-}
-.food-link-bg {
 }

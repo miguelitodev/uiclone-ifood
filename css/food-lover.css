@@ -1,14 +1,13 @@
 .food-lover {
-	width: 842px;
 	display: grid;
-	grid-template-columns: 30% 70%;
-	gap: 20px;
+	grid-template-columns: 20% 10% 70%;
 	margin: 100px auto;
 }
 
 .food-lover article {
 	display: flex;
 	flex-direction: column;
+	justify-content: center;
 	margin-right: 40px;
 }
 
@@ -40,7 +39,6 @@
 }
 
 .banner-ifood-card {
-	width: 900px;
 	margin: 0 auto;
 }
 .banner-ifood-card img {
