@@ -38,9 +38,27 @@
 	width: 100%;
 }
 
+@media screen and (max-width: 900px) {
+	.food-lover {
+		display: grid;
+		grid-template-columns: 100%;
+		margin: 100px 20px;
+	}
+	.food-lover img {
+		display: none;
+	}
+}
+
 .banner-ifood-card {
 	margin: 0 auto;
 }
+
 .banner-ifood-card img {
 	width: 100%;
+}
+
+@media screen and (max-width: 900px) {
+	.banner-ifood-card {
+		display: none;
+	}
 }
