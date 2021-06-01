@@ -6,3 +6,9 @@
 main {
 	padding-top: 80px;
 }
+
+@media screen and (max-width: 1000px) {
+	.container {
+		width: 100%;
+	}
+}
