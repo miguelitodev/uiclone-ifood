@@ -1,0 +1,48 @@
+.food-lover {
+	width: 842px;
+	display: grid;
+	grid-template-columns: 30% 70%;
+	gap: 20px;
+	margin: 100px auto;
+}
+
+.food-lover article {
+	display: flex;
+	flex-direction: column;
+	margin-right: 40px;
+}
+
+.food-lover article > h2 {
+	font-family: "SulSans", sans-serif;
+	font-size: 2.25rem;
+	line-height: 2.75rem;
+	color: var(--title);
+	margin-bottom: 20px;
+}
+
+.food-lover article > p {
+	font-size: 1rem;
+	line-height: 1.25rem;
+	color: var(--text);
+	margin-bottom: 20px;
+}
+.food-lover article > button {
+	color: var(--white);
+	font-family: "SulSans Bold", sans-serif;
+	background-color: var(--red-default);
+	padding: 17px 33px;
+	border-radius: 5px;
+	border: none;
+}
+
+.food-lover img {
+	width: 100%;
+}
+
+.banner-ifood-card {
+	width: 900px;
+	margin: 0 auto;
+}
+.banner-ifood-card img {
+	width: 100%;
+}
