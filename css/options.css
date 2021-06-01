@@ -67,6 +67,25 @@
 	background-color: var(--dark-green);
 }
 
+@media screen and (max-width: 900px) {
+	.container-options {
+		width: 100%;
+	}
+
+	.cards-options {
+		align-items: center;
+		flex-direction: column;
+	}
+
+	.card-option {
+		width: 95%;
+		margin-top: 20px;
+	}
+	.card-option img {
+		width: 200px;
+	}
+}
+
 .mini-cards-options {
 	display: flex;
 	flex-direction: row;
@@ -113,4 +132,15 @@
 	color: var(--red-default);
 	font-weight: bold;
 	margin-left: 10px;
+}
+
+@media screen and (max-width: 900px) {
+	.mini-cards-options {
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+	}
+	.mini-card {
+		margin-top: 100px;
+	}
 }

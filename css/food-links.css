@@ -35,7 +35,7 @@
 	color: var(--text);
 	margin-bottom: 20px;
 }
-.food-link article > button {
+.food-link article > a > button {
 	color: var(--white);
 	font-family: "SulSans Bold", sans-serif;
 	background-color: var(--red-default);
@@ -49,4 +49,19 @@
 	bottom: 25px;
 	left: 0;
 	width: 50%;
+}
+
+@media screen and (max-width: 900px) {
+	.food-links {
+		height: 800px;
+		justify-content: space-around;
+		flex-direction: column;
+	}
+	.food-link {
+		width: 90%;
+		position: relative;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+	}
 }
