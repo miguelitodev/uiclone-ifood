@@ -42,7 +42,7 @@
 	.food-lover {
 		display: grid;
 		grid-template-columns: 100%;
-		margin: 100px 20px;
+		padding: 100px 20px;
 	}
 	.food-lover img {
 		display: none;

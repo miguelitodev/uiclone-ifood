@@ -40,3 +40,9 @@ ul {
 .header-menu ul:last-child li:last-child a:hover {
 	background-color: var(--hover-red);
 }
+
+@media screen and (max-width: 900px) {
+	.header-menu > nav > ul:first-child li:not(li:first-child) {
+		display: none;
+	}
+}

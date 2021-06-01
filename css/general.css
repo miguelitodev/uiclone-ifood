@@ -3,6 +3,10 @@
 	margin: 0 auto;
 }
 
+body {
+	scroll-behavior: smooth;
+}
+
 main {
 	padding-top: 80px;
 }
