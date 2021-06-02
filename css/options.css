@@ -122,7 +122,13 @@
 	right: 50%;
 	transform: translateX(50%);
 	width: 65%;
+	transition: width 2s;
 }
+
+.mini-card:hover img {
+	width: 80%;
+}
+
 .mini-card span {
 	margin-top: 10px;
 }
