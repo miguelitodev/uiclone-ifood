@@ -44,6 +44,10 @@
 	border: none;
 }
 
+.food-link article > a > button:hover {
+	background-color: var(--hover-red);
+}
+
 .food-link-img {
 	position: absolute;
 	bottom: 25px;

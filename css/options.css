@@ -32,6 +32,10 @@
 	background-color: var(--red-default);
 }
 
+.card-option:not(.card-option:hover) {
+	opacity: 0.9;
+}
+
 .card-option:last-child {
 	background-color: var(--green-market);
 }

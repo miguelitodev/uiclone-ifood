@@ -2,6 +2,14 @@ footer {
 	padding: 100px 0px;
 }
 
+footer a {
+	color: var(--text);
+}
+
+footer a:hover {
+	color: var(--dark-gray);
+}
+
 .cities {
 	display: flex;
 	flex-direction: column;
