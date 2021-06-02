@@ -14,6 +14,18 @@ Hello this is a project made to apply the knowledge obtained in the courses of G
 <img src=".github/print.png">
 
 <br>
+<br><br>
+<br>
+
+## Contribute
+
+if you wanna contribute in this project just follow these steps:
+
+1. Make a fork of project
+2. Do your changes
+3. Open a Pull Request
+
+<br>
 <br>
 
 ## What is missing?
@@ -23,7 +35,7 @@ Hello this is a project made to apply the knowledge obtained in the courses of G
 - 🟥 Side Menu
 - 🟥 Animation on Restaurant and Market options
 - 🟥 Modal over button "Entrar"
-- 🟥 Hover opacity in some links
+- ✅ Hover opacity in some links
 - ✅ Transition size image on options
 
 <br>
@@ -42,5 +54,8 @@ Hello this is a project made to apply the knowledge obtained in the courses of G
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/aside" target="_blank">TAG aside</a>
 - <a href="https://web.fe.up.pt/~ee96100/projecto/Tabela%20ascii.htm" target="_blank">Tabela ASCII</a>
 - <a href="https://cursos.alura.com.br/" target="_blank">Alura</a>
+
+<br>
+<br>
 
 Developed by <a href="https://bit.ly/miguelrisquelme"> Miguel Riquelme </a>with ❤

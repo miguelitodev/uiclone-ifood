@@ -61,6 +61,10 @@
 	border: none;
 }
 
+.button-search:hover {
+	background-color: var(--dark-red);
+}
+
 @media screen and (max-width: 900px) {
 	.title-search {
 		width: 90%;
