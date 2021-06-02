@@ -30,6 +30,8 @@ if you wanna contribute in this project just follow these steps:
 
 ## What is missing?
 
+These tasks is issues, can be find here: <a href="https://github.com/miguelrisquelme/uiclone-ifood/issues">Issues</a>
+
 - 🟥 Restaurant sliders
 - 🟥 Promotions slider
 - 🟥 Side Menu
