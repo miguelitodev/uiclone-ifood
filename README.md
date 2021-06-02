@@ -18,13 +18,16 @@ Hello this is a project made to apply the knowledge obtained in the courses of G
 
 ## What is missing?
 
-- Restaurant sliders
-- Promotions slider
-- Side Menu
-- Hover opacity in some links
+- 🟥 Restaurant sliders
+- 🟥 Promotions slider
+- 🟥 Side Menu
+- 🟥 Animation on Restaurant and Market options
+- 🟥 Modal over button "Entrar"
+- 🟥 Hover opacity in some links
+- ✅ Transition size image on options
 
 <br>
-<br>
+      <br>
 
 ## References
 
